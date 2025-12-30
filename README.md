@@ -4,7 +4,7 @@ Menu Command
 
 ## Version
 
-1.0.0 - 12/26/2025
+1.0.1 - 12/27/2025
 
 This plug-in is written in Vectorscript (Pascal) and can be used in any version of [Vectorworks](https://www.vectorworks.net) 2019 or newer.
 
