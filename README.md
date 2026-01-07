@@ -213,8 +213,9 @@ No Known Bugs
 
 ## Feature Requests
 
-No current Feature Requests
-
+| Date Logged | Request |
+| :---: | :--- |
+| 01/07/2026 | Add ability to use a Record Field outside of the synced Record for Key |
 
 ## License
 
