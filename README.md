@@ -206,7 +206,7 @@ The categories for this plug-in are as follows:
 | 12/26/2025 | 1.0.0 | Initial release |
 | 12/27/2025 | 1.0.1 | Focus on Name field any time New Sync Set has been selected |
 | 01/07/2026 | 1.0.2 | Fixed bug with Record Field list box causing Mac machines to hang |
-| 02/24/2026 | 1.0.3 | Fixed bug with Record Field list causing list box not to populate correctly |
+| 02/24/2026 | 1.0.3 | Fixed bug with Record Field list causing list box not to populate correctly on Mac machines |
 
 ## Known Bugs
 
